@@ -31,15 +31,17 @@ export default function Header() {
        <Link to="/restaurant">
           <img className="rounded-4xl"  src="https://cdn.growthjockey.com/blogs/swiggy-mall-offering-integrates-with-instamart-69b3b2-480x359.jpeg"></img>
        </Link>
+
          <a href="https://www.swiggy.com/restaurants" >
-          <img className="rounded-4xl"  src="https://cdn.growthjockey.com/blogs/swiggy-mall-offering-integrates-with-instamart-69b3b2-480x359.jpeg"></img>
-        </a>
-         <a href="https://www.swiggy.com/restaurants" >
-          <img className="rounded-4xl"  src="https://cdn.growthjockey.com/blogs/swiggy-mall-offering-integrates-with-instamart-69b3b2-480x359.jpeg"></img>
+          <img className="rounded-4xl w-120 h-53"  src="https://mir-s3-cdn-cf.behance.net/projects/404/1d31dc85845197.Y3JvcCw4NjIsNjc1LDE0Myww.jpg"></img>
         </a>
 
+         <a href="https://www.swiggy.com/restaurants" >
+          <img className="rounded-4xl w-120 h-53  "  src="https://www.entertales.com/wp-content/uploads/2024/11/Swiggy-IPO-Details.jpg "></img>
+        </a>
+       
  <a href="https://www.swiggy.com/restaurants" >
-          <img  className="rounded-4xl" src="https://cdn.growthjockey.com/blogs/swiggy-mall-offering-integrates-with-instamart-69b3b2-480x359.jpeg"></img>
+          <img  className="rounded-4xl w-120 h-53" src="https://images.goodreturns.in/img/2025/01/swiggy-1736326958.jpg"></img>
         </a>
       </div>
     </header>
